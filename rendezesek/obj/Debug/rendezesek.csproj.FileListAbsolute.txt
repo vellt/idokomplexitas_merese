@@ -1,0 +1,7 @@
+C:\Users\Szántó Benjámin\source\repos\rendezesek\rendezesek\bin\Debug\rendezesek.exe.config
+C:\Users\Szántó Benjámin\source\repos\rendezesek\rendezesek\bin\Debug\rendezesek.exe
+C:\Users\Szántó Benjámin\source\repos\rendezesek\rendezesek\bin\Debug\rendezesek.pdb
+C:\Users\Szántó Benjámin\source\repos\rendezesek\rendezesek\obj\Debug\rendezesek.csproj.AssemblyReference.cache
+C:\Users\Szántó Benjámin\source\repos\rendezesek\rendezesek\obj\Debug\rendezesek.csproj.CoreCompileInputs.cache
+C:\Users\Szántó Benjámin\source\repos\rendezesek\rendezesek\obj\Debug\rendezesek.exe
+C:\Users\Szántó Benjámin\source\repos\rendezesek\rendezesek\obj\Debug\rendezesek.pdb
