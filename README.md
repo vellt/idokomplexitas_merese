@@ -1,4 +1,5 @@
 # Időkomplexitás mérése
+![image](https://github.com/vellt/idokomplexitas_merese/assets/61885011/9501ef6d-d5aa-437f-a689-d278fa4a137f)
 
 ```C#
 using System;
